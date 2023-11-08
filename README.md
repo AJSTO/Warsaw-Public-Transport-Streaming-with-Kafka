@@ -3,7 +3,8 @@
 ## 👨‍💻 Built with
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2018/07/kafka-logo-wide.png?itok=_RFAAAS5" width="100" height="27,5" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /><img src="https://www.devagroup.pl/blog/wp-content/uploads/2022/10/logo-Google-Looker-Studio.png" width="100" height="27,5" /><img src="https://www.scitylana.com/wp-content/uploads/2019/01/Hello-BigQuery.png" width="100" height="27,5" /> <img src="https://insightfinder.com/wp-content/uploads/Google-Cloud-Pub-sub.png" width="100" height="27,5" />
 
-### ℹ️Project info
+# Warsaw Public Transport Streaming project Version ALPHA 
+(TO BE DEVELOPED...)
 
 # [Warsaw Public Transport Dashboard](https://lookerstudio.google.com/reporting/97c14ac0-4f79-4041-921a-1742a978bfd4)
 
