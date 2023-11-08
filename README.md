@@ -7,7 +7,7 @@
 
 # [Warsaw Public Transport Dashboard](https://lookerstudio.google.com/reporting/97c14ac0-4f79-4041-921a-1742a978bfd4)
 
-![Project Screenshot](/path/to/screenshot.png)
+![Project Screenshot](/dashboard-v1.gif)
 
 The **Warsaw Public Transport Dashboard** is an interactive data visualization project that streams real-time information about public transport buses and trams in Warsaw. It provides a live view of bus and tram locations, as well as detailed route information. This README serves as a guide to set up and run the project, whether you want to use Kafka for local development or leverage Google Pub/Sub for production deployment.
 
