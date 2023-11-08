@@ -1,0 +1,13 @@
+api_key: YOUR-API-KEY-TO-API-UM-WARSAW
+resource_id: YOUR-RESOURCE-ID-TO-API-UM-WARSAW
+buses_topic: YOUR-KAFKA-TOPIC-1
+trams_topic: YOUR-KAFKA-TOPIC-2
+project_id: BIGQUERY-PROJECT-ID
+dataset_id: DATASET-ID
+bus_cords_table: TABLE-OF-BUSES-COORDINATES
+tram_cords_table: TABLE-OF-TRAMS-COORDINATES
+json_key_path: ./credentials.json
+kafka_config:
+  bootstrap_servers: localhost:9092
+  group_id: mygroup
+  auto_offset_reset: latest

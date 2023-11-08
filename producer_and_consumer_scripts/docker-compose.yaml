@@ -1,0 +1,16 @@
+version: '3'
+services:
+  consumer_buses:
+    build:
+      context: .
+      dockerfile: Dockerfile.consumer_buses
+
+  consumer_trams:
+    build:
+      context: .
+      dockerfile: Dockerfile.consumer_trams
+
+  producer:
+    build:
+      context: .
+      dockerfile: Dockerfile.producer

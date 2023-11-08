@@ -1,0 +1,8 @@
+math
+pandas
+shapely
+confluent-kafka
+pandas-gbq
+google-cloud-bigquery
+google-auth
+PyYAML==5.4.1
