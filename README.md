@@ -22,11 +22,11 @@ The project gathers data from [https://api.um.warszawa.pl/](https://api.um.warsz
 
 ## Local Development with Kafka
 
-If you want to run this project locally using Kafka for data streaming, follow the steps outlined in the [Local Development Setup](/local-setup.md) section. This section will guide you through the installation of necessary components, running Kafka, and configuring the project to consume data from the Kafka topic.
+If you want to run this project locally using Kafka for data streaming, follow the steps outlined in the [Create pub sub kafka locally ](/to_create_pub_sub_locally) section. This section will guide you through the installation of necessary components, running Kafka, and configuring the project to consume data from the Kafka topic.
 
 ## Production Deployment with Google Pub/Sub
 
-For production deployment or if you want to leverage the capabilities of Google Pub/Sub for data streaming, refer to the [Production Deployment Guide](/production-deployment.md). This guide will walk you through setting up a Google Cloud project, creating a Pub/Sub topic, and configuring your project to publish and consume data using Google Pub/Sub.
+For production deployment or if you want to leverage the capabilities of Google Pub/Sub for data streaming, refer to the [Google Cloud Pub/Sub documentation](https://cloud.google.com/pubsub/docs). This guide will walk you through setting up a Google Cloud project, creating a Pub/Sub topic, and configuring your project to publish and consume data using Google Pub/Sub.
 
 ## Generating Tram and Bus Routes / Bus Stops
 
